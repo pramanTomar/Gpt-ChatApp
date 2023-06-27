@@ -1,10 +1,17 @@
 # Gpt-ChatApp
-This web app can be used as normal chatting app 
-It is a chat app along with the power of openai.      
-I have integrated openai api's in this chat app using which the user can ask any query to the bot and get answers accordingly.  
+Overview :-   
+This web app can be used as a normal chatting app where the user can make an account, log in and then chat with other user also can make a group chat where more than two users could be added. The ability to send images and gif's is also added.  
+
+This chat app not only contains basic chat functionalities but it also comes with the ability to respond back to your queries.  
+I have integrated openai api's to this app using which the user can ask any query to the bot and get answers accordingly.  
 
 The user can make different chat rooms for different functionalities such as,  
 -> A chat room prefixed with AI_Chat can be used to chat with the AI_Bot.  
--> A chat room prefixed with AI_Code can be used to get help as a coding partner.  
+-> A chat room prefixed with AI_Code can help as a coding partner.  
 -> A chat room prefixed with AI_Assist can be used to get help with sentence completion.  
--> Any other chat room prefix would make it a standard chat room.  
+-> Any other chat room prefix would make it a standard chat room with basic chat functionalities.
+
+Technology used :-  
+Frontend  
+-> ReactJs as a frontend Library.  
+-> Chat Engine in order to make chat functionalities.
